@@ -1,11 +1,4 @@
-# 01-Django-Proyect-
-## autor:Camila Morales
-### git clone url == url para clonar el repositorio de manera local
-### git config --global --list inpecciona el nombre y usuario de la cuenta de git
-### git config --global user.name "nombre_usuario"
-### git config --global user.email "correo_electronico"
-
-🐍 01 - Django Project
+#🐍 01 - Django Project
 
 Proyecto base de Django — guía rápida de instalación y configuración
 

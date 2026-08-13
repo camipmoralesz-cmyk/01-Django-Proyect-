@@ -1,0 +1,5 @@
+#archivos y carpetas a ignorar
+
+.venv 
+__pycache__
+*.sqlite3
